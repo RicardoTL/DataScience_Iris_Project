@@ -1,7 +1,7 @@
-# DataScience_Iris_Project
+## DataScience_Iris_Project
 Data Science project from kaggel
 
-## What do you need to know? 📢
+# What do you need to know? 📢
 
 This repository has an academic character, the objective is to analyze a dataset with three types of “Iris” and create a model capable of predicting them.
 
